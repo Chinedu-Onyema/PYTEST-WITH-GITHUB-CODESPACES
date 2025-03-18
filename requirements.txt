@@ -1,7 +1,7 @@
 # THIS FILE WILL KEEP ALL THE PACKAGES I WILL INSTALL FOR MY PYTEST
 
 pytest
-pytest
+pytest-cov
 pylint
 black
 ipython
