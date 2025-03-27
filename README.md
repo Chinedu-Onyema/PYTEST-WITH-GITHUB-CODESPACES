@@ -30,7 +30,7 @@ CI Systems with PyTest
 
 Github Actions: https://docs.github.com/actions/automating-builds-and-tests/building-and-testing-nodejs-or-python?langId=py
 
-AWS Code Build
+AWS Code Build (WITH CODE BUILD, YOU CAN INTERACT WITH EC2 AND S3)
 
 Invoking pytest
 
