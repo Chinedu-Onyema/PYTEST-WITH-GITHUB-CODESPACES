@@ -7,3 +7,4 @@ black
 ipython
 nbval
 ipdb
+Flask
