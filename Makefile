@@ -13,7 +13,7 @@ debug:
 	python -m pytest -vv --pdb
 
 lint:
-	pylint --disable=R,C hello.py
+	pylint --disable=R,C *.py
 
 format:
 	black *.py
