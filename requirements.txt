@@ -8,3 +8,4 @@ ipython
 nbval
 ipdb
 Flask
+click
